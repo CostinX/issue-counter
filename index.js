@@ -8,8 +8,13 @@ function increment() {
 }
 
 function subtract() {
+
+    if (count<=0) {
+        countEl.textContent = count
+    } else {
     count -= 1
     countEl.textContent = count
+    }
 }
 
 function save() {

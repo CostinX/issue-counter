@@ -44,6 +44,9 @@ button {
     background: #1C7947;
 }
 
+#subtract-btn {
+    background: #2C2891;
+}
 #save-el {
     font-weight: bold;
 }
