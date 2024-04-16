@@ -31,7 +31,7 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: fit-content;
     margin-bottom: 5px;
     border-radius: 5px;
 }
